@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-29T18:28:51 IST" name="Suite" finished-at="2020-05-29T18:29:00 IST" duration-ms="9027">
+    <groups>
+    </groups>
+    <test started-at="2020-05-29T18:28:51 IST" name="Test" finished-at="2020-05-29T18:29:00 IST" duration-ms="9027">
+      <class name="reqres.in_APITesting.LoginSuccessful">
+        <test-method is-config="true" signature="function1()[pri:0, instance:reqres.in_APITesting.LoginSuccessful@52d239ba]" started-at="2020-05-29T18:28:58 IST" name="function1" finished-at="2020-05-29T18:28:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function1 -->
+        <test-method signature="Test1()[pri:0, instance:reqres.in_APITesting.LoginSuccessful@52d239ba]" started-at="2020-05-29T18:28:58 IST" name="Test1" finished-at="2020-05-29T18:28:59 IST" duration-ms="1335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- reqres.in_APITesting.LoginSuccessful -->
+      <class name="reqres.in_APITesting.LoginUnSuccessful">
+        <test-method is-config="true" signature="function1()[pri:0, instance:reqres.in_APITesting.LoginUnSuccessful@315f43d5]" started-at="2020-05-29T18:28:59 IST" name="function1" finished-at="2020-05-29T18:28:59 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function1 -->
+        <test-method signature="Test1()[pri:0, instance:reqres.in_APITesting.LoginUnSuccessful@315f43d5]" started-at="2020-05-29T18:28:59 IST" name="Test1" finished-at="2020-05-29T18:29:00 IST" duration-ms="1277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- reqres.in_APITesting.LoginUnSuccessful -->
+      <class name="reqres.in_APITesting.Fetch_Userlist">
+        <test-method is-config="true" signature="function1()[pri:0, instance:reqres.in_APITesting.Fetch_Userlist@68044f4]" started-at="2020-05-29T18:28:57 IST" name="function1" finished-at="2020-05-29T18:28:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function1 -->
+        <test-method signature="Test1()[pri:0, instance:reqres.in_APITesting.Fetch_Userlist@68044f4]" started-at="2020-05-29T18:28:57 IST" name="Test1" finished-at="2020-05-29T18:28:58 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- reqres.in_APITesting.Fetch_Userlist -->
+      <class name="reqres.in_APITesting.CreateUser">
+        <test-method is-config="true" signature="function1()[pri:0, instance:reqres.in_APITesting.CreateUser@395b56bb]" started-at="2020-05-29T18:28:51 IST" name="function1" finished-at="2020-05-29T18:28:53 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function1 -->
+        <test-method signature="Test1()[pri:0, instance:reqres.in_APITesting.CreateUser@395b56bb]" started-at="2020-05-29T18:28:53 IST" name="Test1" finished-at="2020-05-29T18:28:56 IST" duration-ms="3345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- reqres.in_APITesting.CreateUser -->
+      <class name="reqres.in_APITesting.Fetch_Singleuser">
+        <test-method is-config="true" signature="function1()[pri:0, instance:reqres.in_APITesting.Fetch_Singleuser@256f8274]" started-at="2020-05-29T18:28:56 IST" name="function1" finished-at="2020-05-29T18:28:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function1 -->
+        <test-method signature="Test1()[pri:0, instance:reqres.in_APITesting.Fetch_Singleuser@256f8274]" started-at="2020-05-29T18:28:56 IST" name="Test1" finished-at="2020-05-29T18:28:57 IST" duration-ms="1003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- reqres.in_APITesting.Fetch_Singleuser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
